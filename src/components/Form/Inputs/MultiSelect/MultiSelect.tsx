@@ -17,8 +17,8 @@ import {
   useController,
   useFormContext,
 } from "react-hook-form";
-import RequiredIndicator from "./_components/RequiredIndicator";
-import LoadingIndicator from "./_components/LoadingIndicator";
+import RequiredIndicator from "../_components/RequiredIndicator";
+import LoadingIndicator from "../_components/LoadingIndicator";
 
 type Props<T extends FieldValues, O extends ValueType = {}> = TextFieldProps & {
   name: Path<T>;

@@ -3,7 +3,7 @@ import Form from "@/components/Form/Form";
 import Check from "@/components/Form/Inputs/Check/Check";
 import ColorPicker from "@/components/Form/Inputs/ColorPicker/ColorPicker";
 import FileDrop from "@/components/Form/Inputs/FileDrop/FileDrop";
-import MultiSelect from "@/components/Form/Inputs/MultiSelect";
+import MultiSelect from "@/components/Form/Inputs/MultiSelect/MultiSelect";
 import PasswordField from "@/components/Form/Inputs/PasswordField/PasswordField";
 import SingleSelect from "@/components/Form/Inputs/SingleSelect/SingleSelect";
 import TextField from "@/components/Form/Inputs/TextField/TextField";
